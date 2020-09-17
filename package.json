@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/GeisonRDS/node-api#readme",
   "devDependencies": {
+    "lint-staged": "^10.4.0",
     "standard": "^14.3.4"
   }
 }
