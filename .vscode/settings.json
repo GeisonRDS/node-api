@@ -1,0 +1,5 @@
+{
+    "css.lint.vendorPrefix": "error",
+    "less.lint.vendorPrefix": "error",
+    "scss.lint.vendorPrefix": "error"
+}
